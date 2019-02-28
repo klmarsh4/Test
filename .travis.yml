@@ -1,2 +1,2 @@
 language: python
-script: build
+script: ./build.py
