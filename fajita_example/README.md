@@ -5,4 +5,4 @@ It contains:
   3) a src folder containing the continuum assets as json. This is what makes up the tar file
 
 To Install:
-  Run ctm-install-fajita fajita_example
+  TBD - please come back later
